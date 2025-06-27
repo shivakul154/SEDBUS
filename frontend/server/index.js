@@ -20,7 +20,7 @@ mongoose.connect(DBURL)
 .catch(err=> console.error('Mongodb connection error:' ,err))
 
 app.get('/',(req,res)=>{
-    res.send('Hello , Ted bus is working')
+    res.send('Hello , Sed bus is working')
 })
 
 const PORT= 5000
