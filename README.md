@@ -1,6 +1,6 @@
 # Sedbus
 
-Sedbus is a MEAN stack application that replicates the functionalities of the popular bus booking service, RedBus. The application provides users with the ability to search for bus routes, book tickets, and manage their bookings.
+Sedbus is a MERN stack application that replicates the functionalities of the popular bus booking service, RedBus. The application provides users with the ability to search for bus routes, book tickets, and manage their bookings.
 
 ## Features
 
